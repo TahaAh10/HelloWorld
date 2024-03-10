@@ -1,2 +1,2 @@
-# Assignment-1
-GIAIC (Assignment 1)
+# Hello World
+GIAIC (Task 1)
